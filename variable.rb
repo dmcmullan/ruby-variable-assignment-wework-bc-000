@@ -5,10 +5,10 @@ my_favorite_color = "Orange"
 colors = ["Red", "Blue", 42, "Yellow"]
 
 colors[0]
-colors[2]
+colors[2] = "X"
 
 
-
+board = []
 
 
 
