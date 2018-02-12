@@ -2,4 +2,6 @@
  # give it the value of the string "Hello World"
 greeting = "Hello World"
 
-colors = ["Red", "Blue"]
+colors = ["Red", "Blue", 42, "Yellow"]
+
+colors[0]
